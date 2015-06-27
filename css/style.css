@@ -1,0 +1,61 @@
+/*body styling*/
+
+body {background-color: #A2A9B2;
+	border-style: solid dashed;
+	border-color: #DCDCDC;
+	font-family: Verdana;
+	margin: 1em;
+	/* maybe?  background-image: url("/Users/KyleRattet/Documents/profile_project/Assets/backgroundtexture.jpg")*/
+
+	}
+
+/*header styling*/
+
+header {height: 8em;
+	}
+
+nav {
+	font-style: italic;
+	}
+
+/*h1 styling*/
+
+h1 {text-align: center;
+	color: #28384B;
+	}
+
+h2,h3 { color: #28384B;}
+
+@keyframes header{
+	from {background-color: #A2A9B2;)}
+	to {background-color: #DCDCDC;}
+}
+.header {
+    background-color: #A2A9B2;
+    animation-name: header;
+    animation-duration: 6s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	}
+
+
+.categories {
+	font-size: 15px;
+	color: #405165;
+
+}
+
+
+
+.listborder {border: 1px solid;
+	border-radius: 4px;
+	margin: 1%;
+
+}
+
+
+
+
+
+
+
