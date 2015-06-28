@@ -9,7 +9,7 @@ $( document ).ready(function() {
 
  $("#jimcarrey").on('click', function () {
  	var response ="Spy shot of me frantically coding to finish this project last night."
-	$("#jimcarrey").text(response) 
+	$("#jimcarrey").text(response)
  })
 
 // change background color//
