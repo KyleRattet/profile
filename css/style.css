@@ -4,7 +4,7 @@ body {background-color: #A2A9B2;
 	border-style: solid;
 	border-color: #DCDCDC;
 	border-radius: 50px;
-    padding: 20px; 
+    padding: 20px;
 	font-family: Verdana;
 	margin: 5px;
 	/* maybe?  background-image: url("/Users/KyleRattet/Documents/profile_project/Assets/backgroundtexture.jpg")*/
@@ -32,6 +32,12 @@ h2,h3 { color: #28384B;}
 	from {background-color: #A2A9B2;)}
 	to {background-color: #DCDCDC;}
 }
+
+section {
+	font-size: 15px;
+	color: #405165;
+}
+
 .header {
 	border-radius: 20px;
     background-color: #A2A9B2;
@@ -55,10 +61,3 @@ h2,h3 { color: #28384B;}
 	margin: 1%;
 
 }
-
-
-
-
-
-
-
